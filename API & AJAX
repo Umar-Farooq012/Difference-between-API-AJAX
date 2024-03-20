@@ -1,0 +1,22 @@
+AJAX and an API are closely related. AJAX is a technology that allows web developers to create dynamic, interactive websites without
+having to reload the page each time a user interacts with the website. An API (Application Programming Interface) is a set of rules 
+and protocols that allow two different applications or services to communicate with each other.
+
+AJAX relies on an API in order to make requests from the server and receive data from it. The API provides a way for the AJAX code to make requests to the 
+server and receive data back in a format that can be used by the client-side code. This allows for dynamic, interactive websites without having to reload the
+page each time a user interacts with it.
+
+In summary, AJAX and an API are closely related because AJAX uses APIs to communicate with servers and receive data back in a format that can be used by the client-side code.
+=================================================================================================================================================================================
+AJAX (Asynchronous JavaScript and XML) is a set of web development techniques used to create asynchronous web applications. 
+It allows for the updating of web pages without the need for a full page refresh. An API (Application Programming Interface) 
+is a set of rules and protocols that allows one software application to interact with another. In the context of web development, AJAX is often used to make requests to an 
+API in order to retrieve or send data to a server without disrupting the user's experience on the web page. So, the relationship between AJAX and an API is that AJAX can be 
+used to make requests to an API in order to retrieve or send data asynchronously
+=====================================================================================================================================================
+Conceptually both are different things and they don’t have any actual relationship.
+
+AJAX is a front end technology for async backend calls from an html page through javasacript whereas, API widely provides back end data services in XML / JSON format.
+
+With the rise of Angular JS / Jquery framework, it has changed the way we develop web sites and mobile applications. It encourage use of more Ajax calls to fetch the
+data and the whole UI / presentation formatting can be manages by these frameworks.
